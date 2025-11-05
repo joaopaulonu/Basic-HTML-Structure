@@ -1,9 +1,44 @@
-**HTML Structure for Beginners**
+# 📄 HTML Structure for Beginners
 
-This project offers a simple and clear template to help beginners understand the core structure of an HTML document. It's designed for those who are just starting with web development, providing a straightforward example of common HTML elements. The template includes key components like headings, paragraphs, and lists, all laid out to make it easier for beginners to quickly understand the fundamental concepts of HTML. Additionally, helpful comments are added throughout the code to guide learners through each part of the HTML document, explaining how each section contributes to the overall structure of a webpage.
+## 🧰 Project Overview
 
-The goal of this project is to provide a starting point for those new to HTML. It demonstrates essential HTML components such as the main structure of a webpage, text elements like paragraphs and headings, and lists that help organize content effectively. The template also introduces the common practice of using comments to make the code more readable and easier to follow for beginners.
+This project provides a clean and beginner-friendly HTML template designed to help new developers understand the core structure of an HTML document. It features common elements such as **headings**, **paragraphs**, and **lists**, organized to demonstrate how content is structured on a webpage.
 
-This project is perfect for anyone who wants to dive into HTML but isn't sure where to start. By opening the index.html file in a web browser, you’ll be able to see how the various HTML elements are used to create a basic webpage. The template’s simplicity ensures a smooth and friendly learning experience.
+Throughout the code, helpful comments explain the purpose of each section, making it easier for learners to follow along and grasp the fundamentals of HTML. The template emphasizes semantic structure and readability, which are essential skills for anyone starting in web development.
 
-Feel free to use this project as a reference or a foundation for your own HTML learning journey. It's a great, no-frills starting point to help you get comfortable with the basics of web development.
+## 🚀 Key Features
+
+- Clear use of semantic HTML elements
+- Organized layout with headings, paragraphs, and lists
+- Inline comments for guidance and clarity
+- Simple structure ideal for experimentation and learning
+
+## 🎯 Learning Outcomes
+
+- Understand the basic anatomy of an HTML document
+- Learn how to organize content using semantic tags
+- Practice writing readable and maintainable HTML code
+- Build confidence to expand into more advanced web projects
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Document structure and content formatting
+
+## 📚 Ideal For
+
+This template is perfect for:
+
+- Beginners exploring HTML for the first time
+- Students looking for a reference project
+- Anyone building a foundation in web development
+
+Open the `index.html` file in your browser to see how the elements come together to form a simple webpage.
+
+## 📬 Contact Me
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/nunes-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/jp_nunes.andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:jpnunesandrade26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.alura.com.br/indica-dev/jpnunesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> 
+</div>
